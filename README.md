@@ -1,4 +1,4 @@
-RF & SDR Systems Engineer
+RF PCB design & SDR Systems Engineer
 
 I am an RF and Signal Processing Engineer specialized in:
 
