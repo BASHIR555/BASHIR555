@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BASHIR555
-- 👀 I’m interested in IAS
+- 👀 I’m interested in SDRs 
 - 🌱 I’m currently learning AI RROBOTICS
 -  - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
