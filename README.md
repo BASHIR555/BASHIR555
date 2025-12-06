@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @BASHIR555
-- 👀 I’m interested in SDRs 
-- 🌱 I’m currently learning AI RROBOTICS
--  - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+RF & SDR Systems Engineer
 
-<!---
-BASHIR555/BASHIR555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an RF and Signal Processing Engineer specialized in:
+
+- Software Defined Radio (SDR)
+- Passive Radar Systems
+- ELINT Signal Analysis
+- Direction Finding (DF)
+- Multilayer RF PCB Design
+
+My focus is on real-world RF systems, including RF front-end design, high-speed data acquisition, and digital signal processing using FPGA and software tools.
+
+Core Skills
+
+- RF Front-End Design (LNA, Mixers, Filters, PLL)
+- High-Speed ADC/DAC Systems
+- DSP & FPGA Processing (FFT, DDC, FIR, CIC)
+- GNU Radio, MATLAB, Python, C/C++
+- Passive Radar & Direction Finding
+- Multilayer Impedance-Controlled PCB Design
+
+Featured Projects
+
+- Wideband SDR Platform
+- Passive Radar System (DVB-T Based)
+- ELINT Signal Analysis Tool
+- Direction Finding Antenna Array
+- RF Front-End Multilayer PCB
+
+Contact me 
+Email: bachirboi523@gmail.com
